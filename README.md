@@ -54,7 +54,6 @@ Freelancers Hub is a web-based freelancing platform that connects employers and 
 ### Frontend
 - HTML
 - CSS
-- JavaScript
 - Bootstrap
 
 ### Backend
@@ -66,7 +65,6 @@ Freelancers Hub is a web-based freelancing platform that connects employers and 
 
 ### Additional Libraries
 - Flask-MySQLdb
-- Werkzeug
 
 ## Project Structure
 
@@ -98,8 +96,8 @@ freelancer/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/freelancers-hub.git
-cd freelancers-hub
+git clone https://github.com/SumithraAR/Freelance-Hub.git
+cd freelance-Hub
 ```
 
 ### Create Virtual Environment
